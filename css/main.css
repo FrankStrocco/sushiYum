@@ -2,3 +2,15 @@
     margin: 0;
     padding: 0;
 }
+h1 {
+    background-color: darkred;
+    color: white;
+
+}
+h2 {
+    color: #333;
+}
+p {
+    font-size: 15px;
+    margin-bottom: 15px;
+}
